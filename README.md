@@ -1,7 +1,8 @@
 # Neural Network Tank Battle - Educational Application
 
-[![Repo](https://img.shields.io/badge/Code-GitHub-blue?logo=github)](https://github.com/your-username/neural-network-tank-battle)
-[![Demo](https://img.shields.io/badge/Demo-Live-green?logo=vercel)](https://github.com/arturr0/ai-tillery)
+## Project Links
+- **Repository:** [GitHub Repo](https://github.com/arturr0/ai-tillery)
+- **Live Demo:** [Website Demo](https://tank-rooms.onrender.com/)
 
 ## Overview
 Neural Network Tank Battle is an interactive educational app demonstrating supervised neural network training for physics prediction. Students learn to predict projectile outcomes via gameplay and real-time visualization.
