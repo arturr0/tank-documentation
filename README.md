@@ -135,10 +135,6 @@ function updateInfoPanel(){
     Training Samples: ${lossHistory.length}<br>
     Last Loss: ${lossHistory.at(-1)?.toFixed(4)??'N/A'}`;
 }
-```
-- Toggle weights, adjust visualization scale  
-- Filter activations, compare layers  
-- Adjust learning rate, max error, biases during combat  
 
 ---
 
