@@ -116,13 +116,6 @@ function drawNeuralConnection(ctx,from,to,weight){
 socket.on('playerUpdate',d=>updateRemoteNetwork(d.player,d.angle,d.timestamp));
 socket.on('roomMessage',d=>wind=d.wind);
 ```
-
----
-
-## Assessment
-- **Formative**: prediction accuracy, error analysis, parameter exploration  
-- **Summative**: network design, physics integration projects, optimization tasks  
-
 ---
 
 ## Dashboard & Controls
