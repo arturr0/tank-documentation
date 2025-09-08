@@ -152,13 +152,5 @@ function updateInfoPanel(){
 npm install express socket.io
 # Load p5.js, Matter.js, Chart.js via CDN
 ```
-
-**Deployment**
-- Local network with pre-configured scenarios  
-- Time-limited NN design phase  
-- Track student progress  
-
----
-
 ## Conclusion
 Neural Network Tank Battle combines physics, AI, and gameplay for experiential learning. Students design networks, tune training, and engage in real-time battles, making advanced AI and physics concepts engaging and hands-on.
